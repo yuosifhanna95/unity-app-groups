@@ -1,17 +1,17 @@
 {
-  "name": "com.yuosifhanna.unity-app-groups",
+  "name": "com.eisenhuth.unity-appgroups",
   "version": "1.1.0",
-  "displayName": "App Groups",
-  "description": "App Groups Plugin for iOS",
+  "displayName": "AppGroups for iOS",
+  "description": "AppGroups Plugin for iOS",
   "keywords": [
     "iOS",
     "native",
     "AppGroups"
   ],
   "author": {
-    "name": "YuosifHanna",
+    "name": "Eisenhuth",
     "email": "",
-    "url": "https://github.com/yuosifhanna95/unity-app-groups.git"
+    "url": "https://github.com/Eisenhuth/unity-appgroups"
   },
   "hideInEditor": false,
   "dependencies": {}
